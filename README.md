@@ -68,7 +68,7 @@ Community support: The app includes a community support feature where users can 
 
 Aryan Soni contributed to the onboarding, login and home screen.
 Muskan Verma contributed to period tracker and diet tracker.
-Manisha Meghani contributed to
-Shivam Chandak contributed to
+Manisha Meghani contributed to Excersise screen and receipe screen.
+Shivam Chandak contributed to user screen and workout screen.
 
 
