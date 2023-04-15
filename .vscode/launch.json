@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "workick",
+            "cwd": "Users\\Aryan\\Desktop\\workick",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "workick (profile mode)",
+            "cwd": "Users\\Aryan\\Desktop\\workick",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "workick (release mode)",
+            "cwd": "Users\\Aryan\\Desktop\\workick",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "work-out-mobile-app-main",
+            "cwd": "Users\\Aryan\\Downloads\\work-out-mobile-app-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "work-out-mobile-app-main (profile mode)",
+            "cwd": "Users\\Aryan\\Downloads\\work-out-mobile-app-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "work-out-mobile-app-main (release mode)",
+            "cwd": "Users\\Aryan\\Downloads\\work-out-mobile-app-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

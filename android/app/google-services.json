@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "633978886973",
+    "project_id": "gfghackathon-b5cc4",
+    "storage_bucket": "gfghackathon-b5cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633978886973:android:75cb9ef66a3228ffa90354",
+        "android_client_info": {
+          "package_name": "com.example.gfg_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633978886973-atcrjab5osil9apfkprqa74laskrvvqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe1aQgEJJp1oSCZ2QNxTSV0IstWI20y_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633978886973-atcrjab5osil9apfkprqa74laskrvvqc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633978886973-9641hs0ebej2jgh4kij95dqr420j2p6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gfgHackathon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
