@@ -32,6 +32,28 @@ flutter pub get
 Run the app using the flutter run command.
 flutter run
 
+## Tech Stack Used
+This document provides an overview of the tech stack used to build a Flutter app with Firebase as the backend.
+Flutter
+Flutter is an open-source UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. Flutter allows developers to write once and deploy across multiple platforms.
+
+We used Flutter to build the user interface of our app, including the screens, widgets, and animations. Flutter provides a rich set of pre-built widgets that can be customized to match the look and feel of your app.
+
+Firebase
+Firebase is a mobile and web application development platform developed by Google. Firebase provides developers with a range of tools and services to build and manage mobile and web applications, including authentication, real-time database, cloud storage, and hosting.
+
+We used Firebase as the backend for our app, to store user data, authenticate users, and handle real-time communication between the app and the server. Firebase provides a range of easy-to-use APIs that can be integrated into your Flutter app with just a few lines of code.
+
+Flutter SDK: The Flutter SDK is a collection of tools and libraries that enable developers to build native apps for iOS, Android, and the web. It includes a set of customizable widgets, a reactive framework, and a collection of development tools for building and testing apps.
+
+Firebase SDKs: Firebase provides a range of software development kits (SDKs) for various platforms, including Android, iOS, and web. These SDKs provide developers with the tools and resources necessary to integrate Firebase services into their apps.
+
+Cloud Firestore: Cloud Firestore is a NoSQL document database that allows us to store and sync data in real-time. It enables developers to build scalable apps with minimal setup and maintenance. Firestore can be used to store and retrieve data in real-time, as well as to perform queries and listen for changes.
+
+Firebase Authentication: We used Firebase Authentication as it provides secure user authentication and authorization services. It supports various authentication methods, including email/password, phone number, and third-party providers such as Google and Facebook.
+
+Firebase Cloud Storage: Firebase Cloud Storage is a powerful object storage solution that enabled us to store and retrieve files in the cloud. It supports multiple file types, including images, videos, and audio files.
+
 ## Features
 Sign up: Users can sign up for the app using their email ID to create a personalized fitness plan.
 
