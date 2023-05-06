@@ -65,7 +65,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     child: Container(
                       padding: const EdgeInsets.only(top: 60),
                       child: Text(
-                        "Womaniya",
+                        "HerWorld",
                         style: GoogleFonts.dancingScript(
                           fontSize: 75,
                           fontWeight: FontWeight.w600,
