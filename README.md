@@ -1,4 +1,4 @@
-# Womaniya
+#HerWorld
 
 The project is a fitness and sports app that helps users to achieve their fitness goals. To start using the app, users need to sign up with their email ID. Once signed up, the app asks for basic information about the user's height, weight, and fitness goal. This information is used to create a personalized fitness plan for the user.
 
