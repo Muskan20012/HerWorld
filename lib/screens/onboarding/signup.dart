@@ -76,7 +76,7 @@ class _SignupPageState extends State<SignupPage> {
                 Container(
                   padding: const EdgeInsets.only(bottom: 65),
                   child: Text(
-                    "Womaniya",
+                    "HerWorld",
                     style: GoogleFonts.dancingScript(
                       fontSize: 75,
                       fontWeight: FontWeight.w600,
