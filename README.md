@@ -39,7 +39,7 @@ Flutter is an open-source UI toolkit for building natively compiled applications
 
 We used Flutter to build the user interface of our app, including the screens, widgets, and animations. Flutter provides a rich set of pre-built widgets that can be customized to match the look and feel of your app.
 
-Firebase
+
 Firebase is a mobile and web application development platform developed by Google. Firebase provides developers with a range of tools and services to build and manage mobile and web applications, including authentication, real-time database, cloud storage, and hosting.
 
 We used Firebase as the backend for our app, to store user data, authenticate users, and handle real-time communication between the app and the server. Firebase provides a range of easy-to-use APIs that can be integrated into your Flutter app with just a few lines of code.
